@@ -26,35 +26,35 @@ Run the Test: You can run the test through your IDE or using Maven:
 mvn test   
 Test Flow
 
-The test performs the following steps:
+## The test performs the following steps:
 
-Navigate to TheMall website and maximize the window. 
+- ** Navigate to TheMall website and maximize the window. 
 
-Click the logo to navigate back to the homepage. 
+- **Click the logo to navigate back to the homepage. 
 
-Search for "ordinary" and press Enter to submit the search query. <br>
+- **Search for "ordinary" and press Enter to submit the search query. <br>
 
-Close a specific pop-up menu using JavaScript Executor. <br>
+- **Close a specific pop-up menu using JavaScript Executor. <br>
 
-Scroll down by 205 pixels to load more products on the page. <br>
+- **Scroll down by 205 pixels to load more products on the page. <br>
 
-Select the first product ("The Ordinary Glycolic Acid 7% Exfoliating Toner 100ml") and add it to the cart. <br>
+- **Select the first product ("The Ordinary Glycolic Acid 7% Exfoliating Toner 100ml") and add it to the cart. <br>
 
-Navigate through various categories such as Makeup, Fragrance, and Sale. <br>
+- **Navigate through various categories such as Makeup, Fragrance, and Sale. <br>
 
-Apply filters (e.g., oily skin type) using checkbox selection. <br>
+- **Apply filters (e.g., oily skin type) using checkbox selection. <br>
 
-Add products to the cart and wishlist from different sections. <br>
+- **Add products to the cart and wishlist from different sections. <br>
 
-Proceed to checkout, remove items from the cart, and proceed with the checkout process.
+- **Proceed to checkout, remove items from the cart, and proceed with the checkout process.
 
-<br>
-Delete products from the cart and finalize the checkout process.
 
-<br>
-End the test by closing the browser after completing all actions.
+- **Delete products from the cart and finalize the checkout process.
 
-<br>
+
+- **End the test by closing the browser after completing all actions.
+
+
 Libraries Used
 Selenium WebDriver: Used for browser automation.
 TestNG: Test framework used to structure and run the tests.
