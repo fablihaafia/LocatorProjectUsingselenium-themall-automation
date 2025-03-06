@@ -17,19 +17,20 @@ Install dependencies by running:
 ```bash
 mvn install
 
-- **Steps to Run the Test <br>
-- **Clone the Repository: <br>
-git clone https://github.com/your-username/locator_learning.git     <br>
-- **cd locator_learning
+Steps to Run the Test 
+Clone the Repository: 
+git clone https://github.com/your-username/locator_learning.git    
+cd locator_learning
 
-Run the Test: You can run the test through your IDE or using Maven:  <br>
-mvn test    <br>
+Run the Test: You can run the test through your IDE or using Maven:  
+mvn test   
 Test Flow
+
 The test performs the following steps:
 
-Navigate to TheMall website and maximize the window. <br>
+Navigate to TheMall website and maximize the window. 
 
-Click the logo to navigate back to the homepage. <br>
+Click the logo to navigate back to the homepage. 
 
 Search for "ordinary" and press Enter to submit the search query. <br>
 
