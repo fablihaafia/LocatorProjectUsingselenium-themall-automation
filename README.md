@@ -19,7 +19,7 @@ mvn install
 
 Steps to Run the Test 
 Clone the Repository: <br>
-git clone https://github.com/your-username/locator_learning.git    
+git clone https://github.com/fablihaafia/LocatorProjectUsingselenium-themall-automation.git
 cd locator_learning
 
 Run the Test: You can run the test through your IDE or using Maven:  
