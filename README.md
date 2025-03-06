@@ -1,4 +1,4 @@
-# LocatorProjectUsingselenium-themall-automation
+
 # Selenium Automation for TheMall
 
 This repository contains an automated test script for the website **TheMall**. The script demonstrates various interactions with the webpage using **Selenium WebDriver** in Java, such as searching for products, adding them to the cart, and performing actions like navigating through menus and completing checkout.
