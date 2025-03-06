@@ -14,7 +14,7 @@ Before running the script, ensure you have the following installed:
   
 Install dependencies by running:
 
-```bash
+
 mvn install
 
 Steps to Run the Test 
