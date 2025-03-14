@@ -22,7 +22,7 @@ Install dependencies by running:
 
 <b>Step 1:</b> Clone the Repository  
 <pre><code>git clone https://github.com/fablihaafia/LocatorProjectUsingselenium-themall-automation.git</code></pre>  
-<pre><code>cd locator_learning</code></pre>
+<pre><code>cd LocatorProjectUsingselenium-themall-automation</code></pre>
 
 <b>Step 2:</b> Run the Test  
 You can run the test through your IDE or using Maven:  
