@@ -37,7 +37,7 @@ public class TheMall {
         JavascriptExecutor js = (JavascriptExecutor) driver;
         js.executeScript("document.querySelector('li.megamenu-parrent.mx-2.py-0.py-xl-3').style.display = 'none';");
 
-        // Scroll down by a certain number of pixels col-md-3 product-single
+        
         js.executeScript("window.scrollBy(0, 205);");
 
         WebElement productCart = driver.findElement(By.xpath("//a[normalize-space()='The Ordinary Glycolic Acid 7% Exfoliating Toner 100ml']"));
